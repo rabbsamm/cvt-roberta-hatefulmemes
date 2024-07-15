@@ -8,7 +8,6 @@ import torchvision
 import torch
 import torch.nn as nn
 import pandas as pd
-import os
 import pytorch_lightning as pl
 import matplotlib.pyplot as plt
 import Config
